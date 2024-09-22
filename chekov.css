@@ -6,10 +6,10 @@ table {
 
 th {
     background-color: skyblue; 
-    color: white; /* White text */
+    color: white;
     border: 1px solid black;
-    text-align: left; /* Align text to the left */
-    padding: 12px; /* Add padding inside the header cells */
+    text-align: left; 
+    padding: 12px; 
 }
 
 td {
