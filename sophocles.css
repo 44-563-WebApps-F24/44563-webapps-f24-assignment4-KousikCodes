@@ -42,3 +42,8 @@ th, td {
 tr:nth-child(even) {
     background-color: #f2f2f2;
 }
+
+h3:hover {
+    text-shadow: 2px 2px 5px purple;
+    border: 2px solid orange;
+}
