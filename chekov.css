@@ -1,0 +1,23 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+th {
+    background-color: skyblue; 
+    color: white; /* White text */
+    border: 1px solid black;
+    text-align: left; /* Align text to the left */
+    padding: 12px; /* Add padding inside the header cells */
+}
+
+td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid black;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
