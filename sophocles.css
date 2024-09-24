@@ -56,6 +56,7 @@ h3:hover {
     text-shadow: 2px 2px 15px purple;
     border: 2px solid orange;
     padding: 5px;
+    filter: blur(1px);
     border-radius: 5px;
 }
 
